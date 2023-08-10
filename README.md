@@ -1,6 +1,6 @@
-# Wildfire-Data
+# 🔥 Wildfire-Data 🔥
 
-Taking a look at Wildfire data provided by NASA's FIRMS (Fire Information for Resource Management System) that was collected via several satellites using different
+Taking a look at Wildfire data provided by NASA's 🛰️ FIRMS (Fire Information for Resource Management System) that was collected via several satellites using different
 types of instruments to take Brightness (aka thermal intensity) readings of the Earth's surface. FIRMS distributes the data upon request for the time periods desired; I
 chose 2020-2022 as there have been some particularly bad fires here in Northern California.
 
